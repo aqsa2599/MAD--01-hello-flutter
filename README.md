@@ -2,7 +2,7 @@
 
 This is the starter app for week 1 of Mobile Application Development.
 
-This project uses Flutter 3.47.9.
+This project needs Flutter 3.50.0 or newer. Use the latest stable version.
 
 ## How to run
 
