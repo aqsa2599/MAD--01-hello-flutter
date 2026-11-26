@@ -32,7 +32,7 @@ The five `greetingFor` tests fail until you finish `TODO 2`. This is expected. W
 
 ## My screenshot
 
-![The app on my phone](screenshot.jpg)
+![The app on my phone](screenshot.jpeg)
 
 Replace this picture with your own. Take a screenshot of the app on your phone, name it `screenshot.jpg`, and put it in the top folder of this repository, next to this README.
 
